@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../nodeapp"
+		},
+		{
+			"path": "../../terraform"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
